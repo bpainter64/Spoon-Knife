@@ -15,3 +15,5 @@ Fork: bpainter64/Spoon-Knife (product branch `custom`)
 
 | Change | Branch | Type | Upstream PR | Status |
 |---|---|---|---|---|
+| README trailing "Happy forking!" line | `fix/readme-happy-forking` | fix | none | Not yet proposed |
+| BRANDING.md | `fork/branding` | feature | none | Fork-only |
